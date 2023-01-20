@@ -3,27 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhwhoo&label=Profile%20views&color=0e75b6&style=flat" alt="subhwhoo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhwhoo" alt="subhwhoo" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/uisubham" target="blank"><img src="https://img.shields.io/twitter/follow/uisubham?logo=twitter&style=for-the-badge" alt="uisubham" /></a> </p>
 
 - 🔭 I’m currently working on [my Portfolio](https://subhamportfolio1.netlify.app)
 
-- 🌱 I’m currently learning **React with Bite**
+- 🌱 I’m currently learning **React with Vite**
 
-- 👨‍💻 All of my projects are available at [https://subhamportfolio1.netlify.app](https://subhamportfolio1.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://subhamportfolio1.netlify.app)
 
 - 💬 Ask me about **js,react**
 
 - 📫 How to reach me **uiuxsubham@gmail.com**
 
-- 📄 Know about my experiences [https://subhamportfolio1.netlify.app/resume.html](https://subhamportfolio1.netlify.app/resume.html)
+- 📄 Know about my experiences [Resume](https://subhamportfolio1.netlify.app/resume.html)
 
-- ⚡ Fun fact **I am Funny**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I have a Great Sense of Humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
