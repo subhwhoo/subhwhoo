@@ -1,4 +1,4 @@
-![subham](https://user-images.githubusercontent.com/63352018/213845487-0ba300fd-7f42-4e25-9b10-d9621c3bb872.gif)
+![subham-2](https://user-images.githubusercontent.com/63352018/213845638-249a451e-0ce3-4642-96a8-e2f448923dca.gif)
 
 <h1 align="center">Hi 👋, I'm Subham Chowdhury</h1>
 <h3 align="center">I'm, Subham Chowdhury, A passionate frontend developer, UI/UX Designer and a Product Designer from India with a aim to make beautiful products.</h3>
