@@ -38,7 +38,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=subhwhoo&show_icons=true&locale=en" alt="subhwhoo" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhwhoo&" alt="subhwhoo" /></p>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=subhwhoo&show_icons=true&locale=en&layout=compact" alt="subhwhoo" /></p>
 
