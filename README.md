@@ -29,7 +29,7 @@
 <a href="https://instagram.com/uxsubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uxsubham" height="30" width="40" /></a>
 <a href="https://dribbble.com/subhamc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="subhamc" height="30" width="40" /></a>
 <a href="https://www.behance.net/ghostscar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ghostscar" height="30" width="40" /></a>
-<a href="https://medium.com/@subhamc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@subhamc" height="30" width="40" /></a>
+<a href="https://medium.com/@subhwhoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@subhwhoo" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/subhamc786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subhamc786" height="30" width="40" /></a>
 </p>
 
