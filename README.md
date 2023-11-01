@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/uisubham" target="blank"><img src="https://img.shields.io/twitter/follow/uisubham?logo=twitter&style=for-the-badge" alt="uisubham" /></a> </p>
 
-- 🔭 I’m currently working on **[My Portfolio]**(https://subhamportfolio1.netlify.app)
+- 🔭 I’m currently working on **[My Portfolio]**(https://www.subhamchowdhury.com/)
 
 - 🌱 I’m currently learning **React with Vite**
 
-- 👨‍💻 All of my projects are available at **[Portfolio]**(https://subhamportfolio1.netlify.app)
+- 👨‍💻 All of my projects are available at **[Portfolio]**(https://www.subhamchowdhury.com/)
 
 - 💬 Ask me about **HTML, CSS, SASS, JavaScript, React**
 
 - 📫 How to reach me **uiuxsubham@gmail.com**
 
-- 📄 Know about my experiences **[Resume]**(https://subhamportfolio1.netlify.app/resume.html)
+- 📄 Know about my experiences **[Resume]**(https://www.subhamchowdhury.com/)
 
 - ⚡ Fun fact **I have a Great Sense of Humor**
 
